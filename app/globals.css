@@ -86,4 +86,14 @@
   .black-gradient {
     background: linear-gradient(90deg, #161a31 0%, #06091f 100%);
   }
+
+  .text-cred {
+    color: rgb(255 50 50 / var(--tw-text-opacity));
+  }
+  .text-accent-cgreen {
+    color: rgb(150 230 150 / var(--tw-text-opacity));
+  }
+  .text-main-cgreen {
+    color: rgb(50 230 150 / var(--tw-text-opacity));
+  }
 }
